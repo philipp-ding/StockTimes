@@ -1,0 +1,84 @@
+,country,sector,name,prediction,symbol
+0,United States,Technology,Apple Inc.,3,AAPL
+1,United States,Healthcare,AbbVie Inc.,3,ABBV
+2,United States,Healthcare,Abbott Laboratories,1,ABT
+3,Ireland,Technology,Accenture plc,3,ACN
+4,United States,Technology,Adobe Inc.,3,ADBE
+5,United States,Technology,"Applied Materials, Inc.",5,AMAT
+6,Netherlands,Technology,ASML Holding N.V.,4,ASML
+7,United States,Technology,Broadcom Inc.,4,AVGO
+8,United States,Financial Services,American Express Company,3,AXP
+9,United Kingdom,Healthcare,AstraZeneca PLC,1,AZN
+10,United States,Financial Services,Bank of America Corporation,3,BAC
+11,United States,Financial Services,"BlackRock, Inc.",3,BLK
+12,United States,Healthcare,Bristol-Myers Squibb Company,4,BMY
+13,United States,Financial Services,Citigroup Inc.,2,C
+14,United States,Industrials,Caterpillar Inc.,3,CAT
+15,United States,Communication Services,Comcast Corporation,3,CMCSA
+16,United States,Consumer Defensive,Costco Wholesale Corporation,3,COST
+17,United States,Technology,"salesforce.com, inc.",4,CRM
+18,United States,Technology,"Cisco Systems, Inc.",4,CSCO
+19,United States,Healthcare,CVS Health Corporation,2,CVS
+20,United States,Energy,Chevron Corporation,2,CVX
+21,United States,Healthcare,Danaher Corporation,3,DHR
+22,United States,Communication Services,The Walt Disney Company,4,DIS
+23,United States,Communication Services,"Meta Platforms, Inc.",2,FB
+24,United States,Communication Services,Alphabet Inc.,3,GOOG
+25,United States,Communication Services,Alphabet Inc.,4,GOOGL
+26,United States,Financial Services,"The Goldman Sachs Group, Inc.",5,GS
+27,United States,Consumer Cyclical,"The Home Depot, Inc.",4,HD
+28,United States,Industrials,Honeywell International Inc.,3,HON
+29,United States,Technology,International Business Machines Corporation,2,IBM
+30,United States,Technology,Intel Corporation,5,INTC
+31,United States,Technology,Intuit Inc.,3,INTU
+32,United States,Healthcare,"Intuitive Surgical, Inc.",5,ISRG
+33,United States,Healthcare,Johnson & Johnson,1,JNJ
+34,United States,Financial Services,JPMorgan Chase & Co.,5,JPM
+35,United States,Consumer Defensive,The Coca-Cola Company,1,KO
+36,United Kingdom,Basic Materials,Linde plc,3,LIN
+37,United States,Healthcare,Eli Lilly and Company,3,LLY
+38,United States,Consumer Cyclical,"Lowe's Companies, Inc.",3,LOW
+39,United States,Financial Services,Mastercard Incorporated,3,MA
+40,United States,Financial Services,Moelis & Company,4,MC
+41,United States,Consumer Cyclical,McDonald's Corporation,2,MCD
+42,Ireland,Healthcare,Medtronic plc,2,MDT
+43,United States,Healthcare,"Merck & Co., Inc.",3,MRK
+44,United States,Financial Services,Morgan Stanley,5,MS
+45,United States,Technology,Microsoft Corporation,3,MSFT
+46,United States,Utilities,"NextEra Energy, Inc.",1,NEE
+47,United States,Communication Services,"Netflix, Inc.",3,NFLX
+48,United States,Consumer Cyclical,"NIKE, Inc.",3,NKE
+49,United States,Healthcare,"Novan, Inc.",4,NOVN
+50,United States,Technology,"ServiceNow, Inc.",5,NOW
+51,United States,Technology,NVIDIA Corporation,5,NVDA
+52,Canada,Basic Materials,Osisko Gold Royalties Ltd,1,OR
+53,United States,Technology,Oracle Corporation,5,ORCL
+54,United States,Consumer Defensive,"PepsiCo, Inc.",2,PEP
+55,United States,Healthcare,Pfizer Inc.,3,PFE
+56,United States,Consumer Defensive,The Procter & Gamble Company,2,PG
+57,United States,Real Estate,"Prologis, Inc.",1,PLD
+58,United States,Consumer Defensive,Philip Morris International Inc.,2,PM
+59,United States,Financial Services,"PayPal Holdings, Inc.",4,PYPL
+60,United States,Technology,QUALCOMM Incorporated,3,QCOM
+61,United States,Technology,Rogers Corporation,4,ROG
+62,United States,Industrials,Raytheon Technologies Corporation,3,RTX
+63,Canada,Financial Services,Royal Bank of Canada,2,RY
+64,Spain,Financial Services,"Banco Santander, S.A.",2,SAN
+65,Germany,Technology,SAP SE,5,SAP
+66,United States,Consumer Cyclical,Starbucks Corporation,3,SBUX
+67,United States,Financial Services,The Charles Schwab Corporation,4,SCHW
+68,Canada,Technology,Shopify Inc.,4,SHOP
+69,United States,Financial Services,S&P Global Inc.,2,SPGI
+70,United States,Communication Services,AT&T Inc.,2,T
+71,Canada,Financial Services,The Toronto-Dominion Bank,2,TD
+72,United States,Healthcare,Thermo Fisher Scientific Inc.,3,TMO
+73,United States,Consumer Cyclical,"Tesla, Inc.",5,TSLA
+74,France,Energy,TotalEnergies SE,3,TTE
+75,United States,Technology,Texas Instruments Incorporated,3,TXN
+76,United States,Healthcare,UnitedHealth Group Incorporated,3,UNH
+77,United States,Industrials,Union Pacific Corporation,2,UNP
+78,United States,Industrials,"United Parcel Service, Inc.",2,UPS
+79,United States,Communication Services,Verizon Communications Inc.,2,VZ
+80,United States,Financial Services,Wells Fargo & Company,1,WFC
+81,United States,Consumer Defensive,Walmart Inc.,2,WMT
+82,United States,Energy,Exxon Mobil Corporation,1,XOM
