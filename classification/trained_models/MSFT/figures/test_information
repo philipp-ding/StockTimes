@@ -1,0 +1,10 @@
+Title: Predictions
+\ Precision: 0.5221238938053098
+Recall0.5175438596491229
+classification F score: 0.51982
+Test Score: 0.33 RMSE
+Title: Naive Forecasting
+\ Precision: 0.5055432372505543
+Recall1.0
+classification F score: 0.67158
+Test Score: 0.78 RMSE
